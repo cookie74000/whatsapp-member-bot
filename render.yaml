@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: train-taekwondo-members-bot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 60
+    envVars:
+      - key: WHATSAPP_TOKEN
+        sync: false
+      - key: PHONE_NUMBER_ID
+        sync: false
+      - key: VERIFY_TOKEN
+        value: traintkd_members_2024
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ADMIN_PHONE
+        sync: false
