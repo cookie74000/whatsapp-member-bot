@@ -356,6 +356,11 @@ Guidelines:
             f"  {s_note}\n"
             f"  IMPORTANT: {s_instr} The code is: {s_code}\n\n"
             f"Virtual 1-2-1 with Mr Cook: {v_price} -- {v_desc} {v_book}\n\n"
+            "Referral Rewards Programme:\n"
+            "  Students earn ONE FREE MONTH of training for every new member they refer.\n"
+            "  No limit on how many free months can be earned.\n"
+            "  The new member simply mentions the referring student's full name when they register.\n"
+            "  Full details: https://www.traintaekwondo.co.uk/referral.html\n\n"
             "Guidelines:\n"
             "1. Be warm and supportive -- these are existing students, treat them like you know them.\n"
             "2. Keep replies concise (3-5 sentences max).\n"
@@ -364,6 +369,7 @@ Guidelines:
             "5. If you don't know something, direct them to Gavin on 07833 665905.\n"
             "6. Never make up facts not in your knowledge base.\n"
             "7. If they want to speak to Gavin, acknowledge warmly and say he will be in touch.\n"
+            "8. If appropriate, mention the referral rewards programme naturally -- e.g. if a student asks about costs, mention they can earn free months by referring friends. Always include the link: https://www.traintaekwondo.co.uk/referral.html\n"
         )
 
     # ── Belt detection ────────────────────────────────────────────────────────

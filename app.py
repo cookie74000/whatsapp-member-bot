@@ -226,13 +226,41 @@ def handle_menu_selection(to: str, sel_id: str, sel_title: str):
         )
 
     elif sel_id == "tell_a_friend":
+        # Step 1 — explain the reward
         send_whatsapp_message(
             to,
-            "🤝 *Tell a Friend!*\n\n"
-            "Know someone who'd love Taekwondo? Share this link with them:\n"
-            "👉 https://wa.me/447426069502\n\n"
-            "They can message us directly to book their free taster. "
-            "The more the merrier! 🥋🏆"
+            "🎁 *Refer a Friend — Earn a Free Month!*\n\n"
+            "Every time you introduce a friend or family member to Train Taekwondo Schools "
+            "and they join on a paid membership, you earn *one full month of free training*. 🏆\n\n"
+            "✅ No limit — refer 3 friends, get 3 free months\n"
+            "✅ No codes or forms — they just mention your name when they register\n"
+            "✅ Works for any class: Taekwondo, Ninja Skillz or Spectrum Skillz\n\n"
+            "Full details on our referral page 👇"
+        )
+        # Step 2 — CTA button to the referral page
+        send_cta_button(
+            to=to,
+            body=(
+                "📋 *How it works*\n\n"
+                "1️⃣ Send your friend a free taster session link\n"
+                "2️⃣ They mention *your full name* when they register\n"
+                "3️⃣ Once they join, your free month is credited automatically\n\n"
+                "Tap below to see the full referral programme details."
+            ),
+            button_text="View Referral Rewards",
+            button_url="https://www.traintaekwondo.co.uk/referral.html"
+        )
+        # Step 3 — ready-made shareable message
+        send_whatsapp_message(
+            to,
+            "📲 *Ready-made message to forward to a friend:*\n\n"
+            "---\n"
+            "Hey! I train at Train Taekwondo Schools and it's brilliant — "
+            "they do Taekwondo, Ninja Skillz and Spectrum Skillz classes across East Yorkshire. "
+            "The first session is completely free, no kit needed! "
+            "Message them on WhatsApp here 👉 https://wa.me/447426069502\n"
+            "---\n\n"
+            "Just copy and paste that to anyone you think would enjoy it! 🥋🏆"
         )
 
     elif sel_id == "existing_student":
