@@ -261,19 +261,43 @@
       {
         "name": "Free Taster Session",
         "price": "£0",
-        "description": "One full class completely free — no kit or uniform required, any location, any class. No commitment.",
+        "description": "Your first session is always FREE — no kit, no commitment, no pressure. Just come along and try it.",
         "book_url": "https://www.traintaekwondo.co.uk/membership.html"
       },
       {
         "name": "Accelerated Tuition",
         "price": "£40/month",
-        "description": "Up to 3 classes per week plus unlimited virtual classes — the fastest route to your next belt. All locations included. Cancel anytime with 1 month notice.",
+        "most_popular": true,
+        "description": "Up to 3 classes per week. Train at any of our clubs, any week — total flexibility. The fastest route to your next belt. For dedicated students of all ages who want to push themselves. Cancel anytime with 1 month notice.",
+        "includes": [
+          "Up to 3 classes per week",
+          "Train at any club location",
+          "Cancel anytime (1 month notice)"
+        ],
+        "join_url": "https://www.traintaekwondo.co.uk/membership.html"
+      },
+      {
+        "name": "Spectrum Skillz",
+        "price": "£40/month",
+        "description": "Specialist programme for children and young people who benefit from a smaller, more supportive environment. Maximum 7 students per class. Based in Pocklington. Calm, focused sessions tailored to each individual. Places are strictly limited.",
+        "includes": [
+          "1 session per week — Pocklington only",
+          "Maximum 7 students per class",
+          "Fully inclusive, supportive environment",
+          "Cancel anytime (1 month notice)"
+        ],
         "join_url": "https://www.traintaekwondo.co.uk/membership.html"
       },
       {
         "name": "Basic Tuition",
         "price": "£30/month",
-        "description": "1 class per week at your chosen location. Perfect for easing into classes. Cancel anytime with 1 month notice. Upgrade to Accelerated anytime.",
+        "description": "1 class per week at your chosen location. Perfect for easing into martial arts at your own pace. Upgrade to Accelerated anytime. Cancel anytime with 1 month notice.",
+        "locations": ["Beverley", "York", "Stamford Bridge", "Pocklington", "Market Weighton"],
+        "includes": [
+          "1 class per week at chosen location",
+          "Upgrade to Accelerated anytime",
+          "Cancel anytime (1 month notice)"
+        ],
         "join_url": "https://www.traintaekwondo.co.uk/membership.html"
       }
     ],
