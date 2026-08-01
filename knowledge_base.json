@@ -24,10 +24,10 @@
     {
       "name": "Gavin Cook",
       "role": "Chief Instructor",
-      "grade": "4th Dan Black Belt",
-      "bio": "Gavin Cook has been training in Taekwondo for over 43 years and has been running Train Taekwondo Schools for 15 years. As a 4th Dan Black Belt and fully qualified TAGB instructor, Gavin has dedicated his career to helping children, juniors and families discover the life-changing benefits of martial arts. He is also a certified Ninja Skillz instructor. Under his instruction, the club has grown from a single class to a network of five locations across East Yorkshire, producing over 100 black belts.",
+      "grade": "5th Dan Black Belt",
+      "bio": "Gavin Cook has been training in Taekwondo for over 43 years and has been running Train Taekwondo Schools for 15 years. As a 5th Dan Black Belt and fully qualified TAGB instructor, Gavin has dedicated his career to helping children, juniors and families discover the life-changing benefits of martial arts. He is also a certified Ninja Skillz instructor. Under his instruction, the club has grown from a single class to a network of five locations across East Yorkshire, producing over 100 black belts.",
       "highlights": [
-        "4th Dan Black Belt — TAGB Certified",
+        "5th Dan Black Belt — TAGB Certified",
         "Certified Ninja Skillz Instructor",
         "43 years training, 15 years running the club",
         "100+ black belts produced",
@@ -89,7 +89,7 @@
     {
       "name": "Spectrum Skillz",
       "ages": "7-14",
-      "description": "A specialist, internationally-acclaimed programme designed exclusively for children on the autism spectrum. Small classes, expert instruction and a safe space to grow.",
+      "description": "A specialist, internationally-acclaimed programme for children aged 7-14 who benefit from a smaller, more supportive environment. Maximum 7 students per class, expert instruction and a safe space to grow.",
       "benefits": [
         "Maximum 7 children per class",
         "Specialist-trained instructor",
@@ -354,7 +354,7 @@
   },
   "belt_system": {
     "description": "We follow the TAGB (Tae Kwon Do Association of Great Britain) belt system. Grades progress from white belt through to black belt, with coloured belts and tags in between.",
-    "typical_time_to_black_belt": "4-6 years of regular training",
+    "typical_time_to_black_belt": "Minimum 5 years of regular training (typically 5-7 years)",
     "grading": "Gradings are held regularly throughout the year and are optional. You progress at your own pace.",
     "transferability": "TAGB belt grades are nationally recognised and fully transferable to any TAGB-affiliated club in the UK."
   },
@@ -401,7 +401,7 @@
     },
     {
       "question": "When will I get my Black Belt?",
-      "answer": "The journey to Black Belt typically takes 4-6 years of regular training. We have produced over 100 black belts since 2011."
+      "answer": "The minimum training time to reach Black Belt at Train Taekwondo Schools is 5 years, though it typically takes 5-7 years of regular training. We have produced over 100 black belts since 2011."
     },
     {
       "question": "Do I have to enter tournaments?",
@@ -437,7 +437,7 @@
     },
     {
       "question": "What is Spectrum Skillz?",
-      "answer": "Spectrum Skillz is our specialist programme for children aged 7-14 on the autism spectrum. It is internationally acclaimed, uses a game-based learning approach, and has a maximum of 7 children per class. The first taster session is FREE."
+      "answer": "Spectrum Skillz is our specialist programme for children aged 7-14 who benefit from a smaller, more supportive environment. It is internationally acclaimed, uses a game-based learning approach, and has a maximum of 7 children per class. The first taster session is FREE."
     },
     {
       "question": "What is Ninja Skillz?",
