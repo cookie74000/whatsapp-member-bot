@@ -106,21 +106,33 @@
       "location": "York",
       "classes": [
         {
-          "name": "Ninja Skillz (Ages 3-7)",
-          "time": "4:45-5:45pm",
-          "venue": "Lord Deramore's, York",
-          "status": "Launching September 2026"
+          "name": "Ninja Skillz — Early Skillz (Ages 3–4)",
+          "time": "4:30–5:00pm",
+          "venue": "Lord Deramore's Primary School, Heslington Lane, York YO10 4HF",
+          "status": "Launching 15 September 2026"
+        },
+        {
+          "name": "Ninja Skillz — Basic Skillz (Ages 5–6)",
+          "time": "5:00–5:30pm",
+          "venue": "Lord Deramore's Primary School, Heslington Lane, York YO10 4HF",
+          "status": "Launching 15 September 2026"
+        },
+        {
+          "name": "Spectrum Skillz (Ages 7–14)",
+          "time": "5:30–6:00pm",
+          "venue": "Lord Deramore's Primary School, Heslington Lane, York YO10 4HF",
+          "status": "Launching 15 September 2026"
         },
         {
           "name": "Family Taekwondo — Beginner",
-          "time": "6:00-7:00pm",
-          "venue": "Archbishop Holgate's School, York",
+          "time": "6:00–7:00pm",
+          "venue": "Archbishop Holgate's School, Hull Road, York",
           "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Advanced",
-          "time": "7:00-8:00pm",
-          "venue": "Archbishop Holgate's School, York",
+          "time": "7:00–8:00pm",
+          "venue": "Archbishop Holgate's School, Hull Road, York",
           "status": "Running Now"
         }
       ]
@@ -130,14 +142,20 @@
       "location": "Beverley",
       "classes": [
         {
+          "name": "Ninja Skillz (Ages 3–7)",
+          "time": "5:00–5:30pm",
+          "venue": "Beverley St Mary's Primary School",
+          "status": "Running Now"
+        },
+        {
           "name": "Family Taekwondo — Beginner",
-          "time": "5:00-6:00pm",
+          "time": "5:30–6:30pm",
           "venue": "Beverley St Mary's Primary School",
           "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Advanced",
-          "time": "6:00-7:00pm",
+          "time": "6:30–7:30pm",
           "venue": "Beverley St Mary's Primary School",
           "status": "Running Now"
         }
@@ -148,14 +166,22 @@
       "location": "Pocklington",
       "classes": [
         {
-          "name": "Ninja Skillz (Ages 3-11)",
-          "time": "TBC",
-          "status": "Launching September 2026"
+          "name": "Early Skillz (Ages 3–4)",
+          "time": "4:30–5:00pm",
+          "venue": "The Masonic Hall, Pocklington",
+          "status": "Launching 10 September 2026"
         },
         {
-          "name": "Family Taekwondo",
-          "time": "TBC",
-          "status": "Launching September 2026"
+          "name": "Basic Skillz (Ages 5–7)",
+          "time": "5:00–5:30pm",
+          "venue": "The Masonic Hall, Pocklington",
+          "status": "Launching 10 September 2026"
+        },
+        {
+          "name": "Spectrum Skillz (Ages 7–14)",
+          "time": "5:30–6:00pm",
+          "venue": "The Masonic Hall, Pocklington",
+          "status": "Launching 10 September 2026"
         }
       ]
     },
@@ -164,27 +190,27 @@
       "location": "Stamford Bridge",
       "classes": [
         {
-          "name": "Ninja Skillz (Ages 3-4)",
-          "time": "5:00-5:30pm",
-          "venue": "Stamford Bridge Village Hall",
+          "name": "Ninja Skillz — Early Skillz (Ages 3–4)",
+          "time": "5:00–5:30pm",
+          "venue": "Stamford Bridge Village Hall, YO41",
           "status": "Running Now"
         },
         {
-          "name": "Ninja Skillz (Ages 5-7)",
-          "time": "5:30-6:00pm",
-          "venue": "Stamford Bridge Village Hall",
+          "name": "Ninja Skillz — Basic Skillz (Ages 5–7)",
+          "time": "5:30–6:00pm",
+          "venue": "Stamford Bridge Village Hall, YO41",
           "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Beginner",
-          "time": "6:00-7:00pm",
-          "venue": "Stamford Bridge Village Hall",
+          "time": "6:00–7:00pm",
+          "venue": "Stamford Bridge Village Hall, YO41",
           "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Advanced",
-          "time": "7:00-8:00pm",
-          "venue": "Stamford Bridge Village Hall",
+          "time": "7:00–8:00pm",
+          "venue": "Stamford Bridge Village Hall, YO41",
           "status": "Running Now"
         }
       ]
@@ -194,21 +220,21 @@
       "location": "Market Weighton",
       "classes": [
         {
-          "name": "Ninja Skillz (Ages 3-7)",
+          "name": "Ninja Skillz (Ages 3–7)",
           "time": "9:00am",
-          "venue": "MW Community Hall",
-          "status": "Launching 2nd May 2025"
+          "venue": "Market Weighton Community Hall",
+          "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Beginner",
-          "time": "9:30-10:30am",
-          "venue": "MW Community Hall",
+          "time": "9:30–10:30am",
+          "venue": "Market Weighton Community Hall",
           "status": "Running Now"
         },
         {
           "name": "Family Taekwondo — Advanced",
-          "time": "10:30-11:30am",
-          "venue": "MW Community Hall",
+          "time": "10:30–11:30am",
+          "venue": "Market Weighton Community Hall",
           "status": "Running Now"
         }
       ]
@@ -216,39 +242,58 @@
   ],
   "locations": [
     {
-      "name": "York",
-      "venue": "Archbishop Holgate's School",
+      "name": "York (Lord Deramore's)",
+      "venue": "Lord Deramore's Primary School, Heslington Lane, York YO10 4HF",
       "day": "Tuesday",
-      "times": "6:00-8:00pm",
-      "status": "Running Now"
+      "times": "4:30–6:00pm",
+      "status": "Launching 15 September 2026",
+      "classes": ["Ninja Skillz Ages 3–4 (4:30pm)", "Ninja Skillz Ages 5–6 (5:00pm)", "Spectrum Skillz Ages 7–14 (5:30pm)"],
+      "parking": "Car park available on site"
+    },
+    {
+      "name": "York (Archbishop Holgate's)",
+      "venue": "Archbishop Holgate's School, Hull Road, York",
+      "day": "Tuesday",
+      "times": "6:00–8:00pm",
+      "status": "Running Now",
+      "classes": ["Family Taekwondo Beginner (6:00pm)", "Family Taekwondo Advanced (7:00pm)"],
+      "parking": "Car park available on site"
     },
     {
       "name": "Beverley",
       "venue": "Beverley St Mary's Primary School",
       "day": "Wednesday",
-      "times": "5:00-7:00pm",
-      "status": "Running Now"
-    },
-    {
-      "name": "Stamford Bridge",
-      "venue": "Stamford Bridge Village Hall",
-      "day": "Friday",
-      "times": "5:00-8:00pm",
-      "status": "Running Now"
+      "times": "5:00–7:30pm",
+      "status": "Running Now",
+      "classes": ["Ninja Skillz Ages 3–7 (5:00pm)", "Family Taekwondo Beginner (5:30pm)", "Family Taekwondo Advanced (6:30pm)"],
+      "parking": "Car park available on site"
     },
     {
       "name": "Pocklington",
-      "venue": "Venue TBC",
+      "venue": "The Masonic Hall, Pocklington",
       "day": "Thursday",
-      "times": "TBC",
-      "status": "Launching September 2026"
+      "times": "4:30–6:00pm",
+      "status": "Launching 10 September 2026",
+      "classes": ["Early Skillz Ages 3–4 (4:30pm)", "Basic Skillz Ages 5–7 (5:00pm)", "Spectrum Skillz Ages 7–14 (5:30pm)"],
+      "parking": "Parking available nearby"
+    },
+    {
+      "name": "Stamford Bridge",
+      "venue": "Stamford Bridge Village Hall, YO41",
+      "day": "Friday",
+      "times": "5:00–8:00pm",
+      "status": "Running Now",
+      "classes": ["Ninja Skillz Ages 3–4 (5:00pm)", "Ninja Skillz Ages 5–7 (5:30pm)", "Family Taekwondo Beginner (6:00pm)", "Family Taekwondo Advanced (7:00pm)"],
+      "parking": "Car park available on site"
     },
     {
       "name": "Market Weighton",
-      "venue": "MW Community Hall",
+      "venue": "Market Weighton Community Hall",
       "day": "Saturday",
-      "times": "9:00am-12:00pm",
-      "status": "Running Now"
+      "times": "9:00am–11:30am",
+      "status": "Running Now",
+      "classes": ["Ninja Skillz Ages 3–7 (9:00am)", "Family Taekwondo Beginner (9:30am)", "Family Taekwondo Advanced (10:30am)"],
+      "parking": "Car park available on site"
     }
   ],
   "joining": {
